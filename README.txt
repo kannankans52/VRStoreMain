@@ -1,4 +1,4 @@
-Source Code and Output path:
+Source Code and Output path:https://github.com/kannankans52/VRStoreMain 
 Please find the source code in the "VRStore" folder
 Please find the Output file in the "OutputExeFile" folder
 
